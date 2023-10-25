@@ -1,0 +1,9 @@
+/out/
+/.idea/
+/diagrams/
+!/oohomework_2023_21371136_hw_3.iml
+/test/
+!/.gitignore
+!/test/data.txt
+!/src/META-INF/
+!/src/META-INF/MANIFEST.MF

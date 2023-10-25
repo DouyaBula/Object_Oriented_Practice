@@ -1,0 +1,19 @@
+{
+    "1": [
+        "-ask2checkOut(String, int): void",
+        "+checkOut(int): void",
+        "-workerName: String",
+        "Dispatcher",
+        "finishClean",
+        "isCleanOperation()"
+    ],
+    "2": [
+        "DIS_REC_CHECKIN_FAILED",
+        "replyCheckOut(request);",
+        "arrangeClean4CheckOut(request);",
+        "arrangeCleanOnly(Request request)",
+        "RoomState.OCCUPIED",
+        "RequestTag.DIS_CLE_CLEAN_CHECKOUT.equals(request.getRequestTag())"
+    ],
+    "3": "高内聚是指模块内部功能紧密相关，代码组织有序，易于理解和维护；低耦合是指模块之间相互依赖程度低，独立存在，降低了系统的风险传播和修改范围，提高了系统的灵活性和可扩展性。高内聚和低耦合是提高软件质量和可维护性的重要设计原则。"
+}
